@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:model_viewer_plus/model_viewer_plus.dart';
 
-class Alfaromeo6c extends StatefulWidget {
-  Alfaromeo6c({Key? key}) : super(key: key);
+class alfaromeo6c extends StatefulWidget {
+  alfaromeo6c({Key? key}) : super(key: key);
 
   @override
   _Alfaromeo6cState createState() => _Alfaromeo6cState();

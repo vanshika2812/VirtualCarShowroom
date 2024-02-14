@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:model_viewer_plus/model_viewer_plus.dart';
 
-class Jaguarftype extends StatefulWidget {
-  Jaguarftype({Key? key}) : super(key: key);
+class jaguarftype extends StatefulWidget {
+  jaguarftype({Key? key}) : super(key: key);
 
   @override
   _JaguarftypeState createState() => _JaguarftypeState();

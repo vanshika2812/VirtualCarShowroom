@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:model_viewer_plus/model_viewer_plus.dart';
 
-class Lambo extends StatefulWidget {
-  Lambo({Key? key}) : super(key: key);
+class lambo extends StatefulWidget {
+  lambo({Key? key}) : super(key: key);
 
   @override
   _LamboState createState() => _LamboState();

@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:model_viewer_plus/model_viewer_plus.dart';
 
-class Product7 extends StatefulWidget {
-  Product7({Key? key}) : super(key: key);
+class product7 extends StatefulWidget {
+  product7({Key? key}) : super(key: key);
 
   @override
   _Product7State createState() => _Product7State();

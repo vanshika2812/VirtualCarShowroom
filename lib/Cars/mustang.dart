@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:model_viewer_plus/model_viewer_plus.dart';
 
-class Mustang extends StatefulWidget {
-  Mustang({Key? key}) : super(key: key);
+class mustang extends StatefulWidget {
+  mustang({Key? key}) : super(key: key);
 
   @override
   _MustangState createState() => _MustangState();

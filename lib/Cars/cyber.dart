@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:model_viewer_plus/model_viewer_plus.dart';
 
-class Cyber extends StatefulWidget {
-  Cyber({Key? key}) : super(key: key);
+class cyber extends StatefulWidget {
+  cyber({Key? key}) : super(key: key);
 
   @override
   _CyberState createState() => _CyberState();

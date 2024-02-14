@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:model_viewer_plus/model_viewer_plus.dart';
 
-class Mercedsamg extends StatefulWidget {
-  Mercedsamg({Key? key}) : super(key: key);
+class mercedsamg extends StatefulWidget {
+  mercedsamg({Key? key}) : super(key: key);
 
   @override
   _MercedsamgState createState() => _MercedsamgState();

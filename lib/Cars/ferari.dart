@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:model_viewer_plus/model_viewer_plus.dart';
 
-class Ferari extends StatefulWidget {
-  Ferari({Key? key}) : super(key: key);
+class ferari extends StatefulWidget {
+  ferari({Key? key}) : super(key: key);
 
   @override
   _MustangState createState() => _MustangState();

@@ -79,7 +79,9 @@ class HomePage extends StatelessWidget {
                     child: Row(
                       children: <Widget>[
                         _buildCard(
-                          'https://tesla-cdn.thron.com/delivery/public/image/tesla/0f22af4d-15e0-452d-ba66-1359490b4a0b/bvlatuR/std/2880x1800/Cybertruck-Hero-Desktop',
+                            'https://stimg.cardekho.com/images/carexteriorimages/930x620/Tesla/Cybertruck/7236/1574859399554/front-left-side-47.jpg',
+
+//                           'https://tesla-cdn.thron.com/delivery/public/image/tesla/0f22af4d-15e0-452d-ba66-1359490b4a0b/bvlatuR/std/2880x1800/Cybertruck-Hero-Desktop',
                           'Cybertruck',
                           () {
                             Navigator.push(
@@ -177,7 +179,8 @@ class HomePage extends StatelessWidget {
                       },
                     ),
                     _buildCard(
-                      'https://tesla-cdn.thron.com/delivery/public/image/tesla/0f22af4d-15e0-452d-ba66-1359490b4a0b/bvlatuR/std/2880x1800/Cybertruck-Hero-Desktop',
+                       'https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ad8bf5ac-a244-4d9d-b071-501ffbaa499d/55b9faf5-e3ca-4652-a6f8-cdacda8cb850.png',
+//                       'https://tesla-cdn.thron.com/delivery/public/image/tesla/0f22af4d-15e0-452d-ba66-1359490b4a0b/bvlatuR/std/2880x1800/Cybertruck-Hero-Desktop',
                       'Lamborghini Aventador ',
                       () {
                         Navigator.push(
@@ -201,7 +204,10 @@ class HomePage extends StatelessWidget {
                       },
                     ),
                     _buildCard(
-                      'https://images.cdn.circlesix.co/image/2/1200/630/5/uploads/media/2021-07/15/791f3c9be5a2368a/86-mpg-sandbox-oskarbakke-_dsc03222.jpeg',
+                    'https://files.porsche.com/filestore/news/international-de/none/347801/headimage2/8a1accaa-3b39-11e5-8c35-0019999cd470/Porsche-celebrates-30-years-of-the-959-at-the-Oldtimer-Grand-Prix-2015.jpg',
+//                     ' https://files.porsche.com/filestore/news/international-de/none/347801/headimage2/8a1accaa-3b39-11e5-8c35-0019999cd470/Porsche-celebrates-30-years-of-the-959-at-the-Oldtimer-Grand-Prix-2015.jpg',
+//                     'https://fational-de/none/347801/headimage1/8a1acca9-3b39-11e5-8c35-0019999cd470/Porsche-celebrates-30-years-of-the-959-at-the-Oldtimer-Grand-Prix-2015.jpg',
+//                       'https://images.cdn.circlesix.co/image/2/1200/630/5/uploads/media/2021-07/15/791f3c9be5a2368a/86-mpg-sandbox-oskarbakke-_dsc03222.jpeg',
                       'Porshe 959',
                       () => {
                         Navigator.push(
@@ -228,7 +234,7 @@ class HomePage extends StatelessWidget {
                   ),
                   InkWell(
                     onTap: () {
-                      print("View all");
+                      print("View all")
                       // Your function here
                     },
                     child: Row(
@@ -395,7 +401,7 @@ class CustomAppBar extends StatelessWidget implements PreferredSizeWidget {
         backgroundColor: Color.fromARGB(255, 255, 244, 230),
         elevation: 0,
         title: Text(
-          'Binary Brains',
+          'AR CAR SHOWROOM ',
           style: TextStyle(
             fontSize: 24.0,
             fontWeight: FontWeight.bold,
